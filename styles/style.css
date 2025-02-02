@@ -1,6 +1,3 @@
-body {
-
-}
 
 .header {
   display: grid;
@@ -35,10 +32,6 @@ body {
   list-style-type: none;
 }
 
-.nav-item {
-
-}
-
 .logo {
   display: flex;
   justify-content: center;
@@ -64,10 +57,6 @@ body {
 
 .address-list-item {
   line-height: 24.3px;
-}
-
-.main {
-  background-color: cornflowerblue;
 }
 
 .overlay {
@@ -139,7 +128,6 @@ body {
 }
 
 .lots {
-  background-color: aquamarine;
   width: 1052px;
   margin: 180px 24px 120px 24px;
 }
@@ -217,7 +205,6 @@ body {
   display: grid;
   grid-template-columns: 334px 1fr;
   gap: 25px;
-  background-color: darkolivegreen;
   width: 1052px;
   margin: 120px 24px 180px 24px;
 }
@@ -263,7 +250,6 @@ body {
 }
 
 .footer {
-  background-color: darkslateblue;
   display: grid;
   justify-items: center;
   align-items: start;
@@ -278,11 +264,9 @@ body {
   justify-self: center;
   font-style: normal;
   padding-right: 28px;
-  padding-top: 2px;
 }
 
 .footer_menu {
-  padding-top: 2px;
   display: flex;
   justify-content: center;
   text-underline-offset: 4px;
@@ -302,16 +286,11 @@ body {
   text-decoration: none;
 }
 
-.footer_menu-link {
-
-}
-
 .footer_social-list {
   display: flex;
   gap: 48px;
   list-style-type: none;
   padding-left: 27px;
-  padding-top: 2px;
 }
 
 .footer_social-list-item {
@@ -319,12 +298,3 @@ body {
   height: 48px;
   width: 48px;
 }
-
-.footer_social-link {
-
-}
-
-.footer_social-icon {
-
-}
-
