@@ -286,12 +286,7 @@
   display: flex;
 }
 
-.footer_social-link {
+.footer_social-icon {
   height: 48px;
   width: 48px;
-}
-
-.footer_social-icon {
-  height: 100%;
-  width: 100%;
 }
